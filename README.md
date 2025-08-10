@@ -41,4 +41,13 @@ Used Xlookup to matchup the customer's mail address to the next sheet
 
 The analysis result are summarized as follows:
 1. The company's sales has been increasing over the past year. with a noticable increase in 2020
-2. 
+2. United states in the Country category has the highest number of customers
+
+
+### Recommendation
+Based on the analysis, i recommend the following actions:
+- I invest in marketing and promotion during peak sales seasons to maximize revenue
+- I implement a customer segmentation strategy to target higher population effectively
+
+### Limitations
+I had to drop individual rows who do not have country address in order to have clean data.
