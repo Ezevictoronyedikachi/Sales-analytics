@@ -1,6 +1,13 @@
 # Sales Analytics (Coffee sales data)
 
-### A detailed analysis with dashboard of a sales data
+
+## Table of Contents
+
+- [Project Overview](#Project-Overview)
+- [Data Sources](#Data_Source)
+- [Recommendation](#Recommendation)
+
+### Project Overview
 
 This data analytics project aims to provide insight into the sales performance of an E-commerce company over a period of time. By analyzing various aspects of the sales data, we seek to identify trends, make data driven recommendation, and gain a deeper understanding of the company's performance.
 
@@ -50,4 +57,4 @@ Based on the analysis, i recommend the following actions:
 - I implement a customer segmentation strategy to target higher population effectively
 
 ### Limitations
-I had to drop individual rows who do not have country address in order to have clean data.
+I had to drop individual rows who do not have country address in order to have clean data. 
