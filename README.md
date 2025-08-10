@@ -1,3 +1,6 @@
+[coffeeOrdersData.xlsx](https://github.com/user-attachments/files/21706097/coffeeOrdersData.xlsx)
+[Analysed With Dashboard coffeeOrdersData.xlsx](https://github.com/user-attachments/files/21706096/Analysed.With.Dashboard.coffeeOrdersData.xlsx)
+<img width="877" height="378" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/9c240fa4-7264-4a1e-8456-03132d8973ed" />
 # Sales Analytics (Coffee sales data)
 
 
