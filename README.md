@@ -58,6 +58,7 @@ The analysis result are summarized as follows:
 Based on the analysis, i recommend the following actions:
 - I invest in marketing and promotion during peak sales seasons to maximize revenue
 - I implement a customer segmentation strategy to target higher population effectively
+- Work with the product and sales team to understand why there's a churn accross all product after the year 2020
 
 ### Limitations
 I had to drop individual rows who do not have country address in order to have clean data. 
